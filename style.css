@@ -1,0 +1,15 @@
+/* #header {
+    width: auto;
+    height: auto;
+    background-color: #81C4F0;
+    margin: -10px;
+}    */
+div {
+    color: red;
+  background: lightblue;
+  border: 5px dashed black;
+  padding: 20px;
+  
+  background-clip: text;
+
+}
